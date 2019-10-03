@@ -6,4 +6,5 @@ while [ $num -ne 0 ]; do
 	factor=$(expr $factor \* $num)
 	num=$(expr $num - 1)
 done
+
 echo $factor
