@@ -4,7 +4,7 @@
 # Set these variables
 username="root"	# Database username
 password="root"	# Database password
-hostname="localhost"	# Database hostname or IP address
+hostname="localhost" # Database hostname or IP address
 
 # Backup target_path directory
 target_path="/home/daparis/Desktop"
@@ -13,7 +13,7 @@ target_path="/home/daparis/Desktop"
 EMAIL="emaiid@yourdomain.com"
 
 # in the below value we Are removing 5 days old backup. modify it accordingly as needed
-DAYS=5
+DAYS=5 #currently set for 5 days
 
 # Figure our the the version and bin paths in linux machine
 MYSQL="$(which mysql)"
