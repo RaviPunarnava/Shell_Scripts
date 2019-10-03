@@ -7,3 +7,6 @@ mysql_backup.sh helps in taking the backup of MYSQL databases as custom and regu
 
 
 perl_dos_to_linux.sh is a perl script which will convert a windows type file to linux type
+
+
+multiplication_tables.sh will print multiplication table for the entered number
